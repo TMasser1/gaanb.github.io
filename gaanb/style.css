@@ -102,7 +102,7 @@ footer {
 
 /* Moving Background Animation */
 body {
-    background-image: linear-gradient(135deg, #3498db, #f39c12, #e74c3c);
+    background-image: linear-gradient(135deg, #964B00, #f39c12, #fbff00);
     background-size: 300% 300%;
     animation: movingBackground 10s ease infinite;
 }
